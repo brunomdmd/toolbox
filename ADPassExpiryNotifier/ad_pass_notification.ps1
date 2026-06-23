@@ -36,7 +36,7 @@ foreach ($usuario in $usuarios) {
   <p>Olá, <strong>$nomeExibicao</strong>!</p>
 
   <p>
-    A senha da sua conta <strong>$dominio\$samAccountName</strong> irá expirar em 
+    A senha da sua conta <strong>$dominio\$samAccount</strong> irá expirar em 
     <strong style="color: #cc0000;">$dias dias</strong> 
     (<strong>$dataFormatada</strong>).
   </p>
