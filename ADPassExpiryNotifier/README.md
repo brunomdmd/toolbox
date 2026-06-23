@@ -12,4 +12,6 @@ cd toolbox
 powershell.exe ADPassExpiryNotifier\ad_pass_notification.ps1
 ```
 
+![Exemplo do e-mail enviado](Exemplo_email.png)
+
 ---
