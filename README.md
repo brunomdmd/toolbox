@@ -8,8 +8,8 @@ Resolvi postar alguns scripts que fui desenvolvendo ao longo da minha trajetóri
 
 | Script | Descrição | Link | Linguagem | Dependências 
 |--------|-------------|------|------|------|
-| ImageToPDF | Converte imagens para PDF | [toolbox/ImageToPDF](toolbox/ImageToPDF) | Python | Python 3.8+ | 
-| ADPassExpiryNotifier | Notifica usuários com senha expirando no AD | [toolbox/ADPassExpiryNotifier](toolbox/ADPassExpiryNotifier) | PowerShell | Permissão de "Read" no AD | 
+| ImageToPDF | Converte imagens para PDF | [toolbox/ImageToPDF](https://github.com/brunomdmd/toolbox/tree/main/ImageToPDF) | Python | Python 3.8+ | 
+| ADPassExpiryNotifier | Notifica usuários com senha expirando no AD | [toolbox/ADPassExpiryNotifier](https://github.com/brunomdmd/toolbox/tree/main/ADPassExpiryNotifier) | PowerShell | Permissão de "Read" no AD | 
 
 ---
 
